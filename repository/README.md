@@ -212,6 +212,8 @@ Trade-offs:
 * [Data Mapper](https://java-design-patterns.com/patterns/data-mapper/): While Repository handles data access, Data Mapper is responsible for transferring data between objects and a database, maintaining the data integrity.
 * [Unit of Work](https://java-design-patterns.com/patterns/unit-of-work/): Often used alongside Repository to manage transactions and track changes to the data.
 
+
+
 ## References and Credits
 
 * [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://amzn.to/3wlDrze)
